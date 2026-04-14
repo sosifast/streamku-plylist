@@ -75,7 +75,7 @@
   {
     "id": 8,
     "name": "Watch Bein Sport Live TV on Streamku",
-    "slug": "transtv-id",
+    "slug": "bein-sport-extra-en",
     "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/uJosqHh.png",
@@ -85,6 +85,6 @@
     "url_stream_4": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports1080p.m3u8",
     "url_stream_5": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
     "url_stream_6": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
-    "id_category": 3
+    "id_category": 1
   }
 ]
