@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Watch Sport Live TV on Streamku",
-    "slug": "watch-sport-live-tv-on-streamku",
+    "name": "Watch Moji Live TV on Streamku",
+    "slug": "moji-tv",
     "seo_title": "Watch Sport Live TV on Streamku – Free HD Sports Streaming",
     "desc_title": "Watch sport live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://example.com/image1.jpg",
-    "url_stream": "https://example.com/image1.jpg",
+    "image_url": "https://i.imgur.com/mM9zapJ.png",
+    "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8",
     "id_category": 1
   },
   {
@@ -28,16 +28,25 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
     "id_category": 2
-  }
-  ,
+  },
   {
-    "id": 3,
+    "id": 4,
     "name": "Watch SCTV Live TV on Streamku",
     "slug": "sctv-id",
     "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/EMmOvnQ.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": ,
+    "name": "Watch RCTI Live TV on Streamku",
+    "slug": "rcti-id",
+    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
+    "image_url": "https://i.imgur.com/iLFx8ia.png",
+    "url_stream": "http://103.66.62.83:8000/play/a00v/index.m3u8",
     "id_category": 2
   }
 ]
