@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Watch Sport Live TV on Streamku",
+    "slug": "watch-sport-live-tv-on-streamku",
+    "seo_title": "Watch Sport Live TV on Streamku – Free HD Sports Streaming",
+    "desc_title": "Watch sport live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://example.com/image1.jpg",
+    "url_stream": "https://example.com/image1.jpg",
+    "id_category": 1
+  },
+  {
+    "id": 2,
+    "name": "Watch ANTV Live TV on Streamku",
+    "slug": "antv-id",
+    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
+    "url_stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 3,
+    "name": "Watch Indosiar Live TV on Streamku",
+    "slug": "indosiar-id",
+    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
+    "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
+    "id_category": 2
+  }
+  ,
+  {
+    "id": 3,
+    "name": "Watch SCTV Live TV on Streamku",
+    "slug": "sctv-id",
+    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
+    "image_url": "https://i.imgur.com/EMmOvnQ.png",
+    "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
+    "id_category": 2
+  }
+]

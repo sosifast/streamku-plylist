@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "is_menu": 1,
+    "name": "Sport",
+    "slug": "sport",
+    "seo_title": "Watch Sport Live TV on Streamku – Free HD Sports Streaming",
+    "desc_title": "Watch sport live TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/sports.png"
+  },
+  {
+    "id": 2,
+    "is_menu": 0,
+    "name": "News",
+    "slug": "news",
+    "seo_title": "Watch News Live TV on Streamku – Free HD Sports Streaming",
+    "desc_title": "Watch news live TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
+  }
+]

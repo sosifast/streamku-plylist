@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://gadget.jagatreview.com/wp-content/uploads/2021/08/KV-DANA-Tampilan-Baru.jpg",
+    "url_target": "https://example.com/page1"
+  },
+  {
+    "id": 2,
+    "image_url": "https://rakyatempatlawang.disway.id/upload/ee57a762721ae0ac9e3ef6c45a82dac3.jpg",
+    "url_target": "https://example.com/page2"
+  },
+  {
+    "id": 3,
+    "image_url": "https://assets.banksaqu.co.id/BLOG_Lockfund_CB_2_2_27b9318f19/BLOG_Lockfund_CB_2_2_27b9318f19.jpg",
+    "url_target": "https://example.com/page3"
+  }
+]
