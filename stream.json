@@ -15,7 +15,7 @@
     "slug": "antv-id",
     "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
-    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/6XpO7mkGVQns85enn0EmWepTy9V.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1280px-Antv_logo.svg.png",
     "url_stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
     "id_category": 3
   },
@@ -25,7 +25,7 @@
     "slug": "indosiar-id",
     "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
-    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/rINnk0IoS0jd4gMHCOsmRTD9iJB.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
     "id_category": 3
   },
@@ -35,7 +35,7 @@
     "slug": "sctv-id",
     "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
-    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/3Zs6z9zA8mELGA04fnFfy2zM3lm.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/3840px-SCTV_Logo.svg.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
     "id_category": 3
   },
@@ -45,7 +45,7 @@
     "slug": "rcti-id",
     "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
-    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/qML2Ii1tKVCjLw4n84iWsojuBlq.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",
     "id_category": 3,
     "url_stream_1": "http://103.66.62.83:8000/play/a00v/index.m3u8",
     "url_stream_2": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd"
@@ -56,7 +56,7 @@
     "slug": "trans7-id",
     "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
-    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/w31NBcd9jhVFCp6BFzhhTpFyGSL.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",
     "url_stream": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
     "id_category": 3
   },
