@@ -5806,8 +5806,11 @@
     "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
     "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming. Enjoy free online television anywhere.",
     "image_url": "https://iptv-org.github.io/logo/logos/SportsGrid.us.png",
-    "url_stream": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-    "id_category": 1
+    "id_category": 1,
+    "url_stream_1": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
+    "url_stream_2": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+    "url_stream_3": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+    "url_stream_4": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
   },
   {
     "id": 581,
@@ -14000,16 +14003,6 @@
     "id_category": 3
   },
   {
-    "id": 1400,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-    "id_category": 3
-  },
-  {
     "id": 1401,
     "name": "Tastemade Travel",
     "slug": "tastemade-travel",
@@ -18490,16 +18483,6 @@
     "id_category": 3
   },
   {
-    "id": 1849,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-    "id_category": 3
-  },
-  {
     "id": 1850,
     "name": "Yo! MTV",
     "slug": "yo-mtv",
@@ -18767,16 +18750,6 @@
     "desc_title": "Watch Supreme Master TV live TV on Streamku with high-quality HD streaming.",
     "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
     "url_stream": "https://lbs-us1.suprememastertv.com/720p.m3u8",
-    "id_category": 3
-  },
-  {
-    "id": 1877,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
     "id_category": 3
   },
   {
@@ -30560,16 +30533,6 @@
     "id_category": 3
   },
   {
-    "id": 3056,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-    "id_category": 3
-  },
-  {
     "id": 3057,
     "name": "Tastemade Travel",
     "slug": "tastemade-travel",
@@ -35050,16 +35013,6 @@
     "id_category": 3
   },
   {
-    "id": 3505,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-    "id_category": 3
-  },
-  {
     "id": 3506,
     "name": "Yo! MTV",
     "slug": "yo-mtv",
@@ -35327,16 +35280,6 @@
     "desc_title": "Watch Supreme Master TV live TV on Streamku with high-quality HD streaming.",
     "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
     "url_stream": "https://lbs-us1.suprememastertv.com/720p.m3u8",
-    "id_category": 3
-  },
-  {
-    "id": 3533,
-    "name": "SportsGrid",
-    "slug": "sportsgrid",
-    "seo_title": "Watch SportsGrid Live TV on Streamku \u2013 Free HD Streaming",
-    "desc_title": "Watch SportsGrid live TV on Streamku with high-quality HD streaming.",
-    "image_url": "https://ik.imagekit.io/bfrfvbniv/streamku.png",
-    "url_stream": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
     "id_category": 3
   },
   {
