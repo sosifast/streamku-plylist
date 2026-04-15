@@ -4,8 +4,8 @@
     "is_menu": 1,
     "name": "Sport",
     "slug": "sport",
-    "seo_title": "Watch Sport Live TV on Streamku – Free HD Sports Streaming",
-    "desc_title": "Watch sport live TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
+    "seo_title": "Watch Sports Live TV on Streamku – Free HD Sports Streaming",
+    "desc_title": "Watch live sports TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
     "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/sports.png"
   },
   {
@@ -13,18 +13,53 @@
     "is_menu": 0,
     "name": "News",
     "slug": "news",
-    "seo_title": "Watch News Live TV on Streamku – Free HD Sports Streaming",
-    "desc_title": "Watch news live TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
+    "seo_title": "Watch News Live TV on Streamku – Free Breaking News Streaming",
+    "desc_title": "Stay updated with breaking news live TV on Streamku in high-quality HD streaming. Stream global and local news anytime, anywhere for free.",
     "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
-  }
-  ,
+  },
   {
     "id": 3,
     "is_menu": 0,
     "name": "General",
     "slug": "general",
-    "seo_title": "Watch General Live TV on Streamku – Free HD Sports Streaming",
-    "desc_title": "Watch news live TV on Streamku with high-quality HD streaming. Enjoy football, basketball, and more anytime, anywhere for free.",
+    "seo_title": "Watch General Live TV on Streamku – Free HD TV Streaming",
+    "desc_title": "Watch general live TV channels on Streamku with high-quality HD streaming. Enjoy a variety of popular television programs anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
+  },
+  {
+    "id": 4,
+    "is_menu": 0,
+    "name": "Music",
+    "slug": "music",
+    "seo_title": "Watch Music Live TV on Streamku – Free Music Video Streaming",
+    "desc_title": "Stream music live TV on Streamku with high-quality HD streaming. Enjoy hit songs, live music videos, and concerts anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
+  },
+  {
+    "id": 5,
+    "is_menu": 0,
+    "name": "Movie",
+    "slug": "movie",
+    "seo_title": "Watch Movies Live TV on Streamku – Free HD Movie Streaming",
+    "desc_title": "Watch movies live TV on Streamku with high-quality HD streaming. Enjoy the latest blockbusters and classic films anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
+  },
+  {
+    "id": 6,
+    "is_menu": 0,
+    "name": "Kids",
+    "slug": "kids",
+    "seo_title": "Watch Kids Live TV on Streamku – Free Cartoons & Kids Shows",
+    "desc_title": "Entertain the little ones with kids live TV on Streamku in HD. Stream safe, fun cartoons and children's programs anytime, anywhere for free.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
+  },
+  {
+    "id": 7,
+    "is_menu": 0,
+    "name": "Entertainment",
+    "slug": "entertaiment",
+    "seo_title": "Watch Entertainment Live TV on Streamku – Free HD Entertainment",
+    "desc_title": "Watch entertainment live TV on Streamku with high-quality HD streaming. Enjoy talk shows, reality TV, and engaging shows anytime, anywhere for free.",
     "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png"
   }
 ]

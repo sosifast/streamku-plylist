@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Qris",
+        "image_icon": "https://tel-access.biz/wp-content/uploads/2020/12/Icon-Posts-QRIS-7.png",
+        "image_qr_url": "https://prooftag.net/wp-content/uploads/sites/9/2021/07/QR-Code.png"
+    },
+    {
+        "id": "2",
+        "name": "Paypal",
+        "image_icon": "https://example.com/icon.png",
+        "account": "infoduit95@gmail.com"
+    },
+    {
+        "id": "3",
+        "name": "BTC",
+        "image_icon": "https://example.com/icon.png",
+        "account": "infoduit95@gmail.com",
+        "image_qr_url": "https://prooftag.net/wp-content/uploads/sites/9/2021/07/QR-Code.png"
+    },
+    {
+        "id": "4",
+        "name": "ETH",
+        "network": "ERC20",
+        "image_icon": "https://example.com/icon.png",
+        "account": "123423424234",
+        "image_qr_url": "https://prooftag.net/wp-content/uploads/sites/9/2021/07/QR-Code.png"
+    }
+]

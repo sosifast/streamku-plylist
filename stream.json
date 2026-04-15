@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Watch Moji Live TV on Streamku",
+    "name": "Moji TV",
     "slug": "moji-tv",
-    "seo_title": "Watch Sport Live TV on Streamku – Free HD Sports Streaming",
+    "seo_title": "Watch Sport Live TV on Streamku \u2013 Free HD Sports Streaming",
     "desc_title": "Watch sport live TV on Streamku with high-quality HD streaming.",
     "image_url": "https://i.imgur.com/mM9zapJ.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8",
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "name": "Watch ANTV Live TV on Streamku",
+    "name": "Antv",
     "slug": "antv-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
     "url_stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
@@ -21,9 +21,9 @@
   },
   {
     "id": 3,
-    "name": "Watch Indosiar Live TV on Streamku",
+    "name": "Indosiar",
     "slug": "indosiar-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
@@ -31,9 +31,9 @@
   },
   {
     "id": 4,
-    "name": "Watch SCTV Live TV on Streamku",
+    "name": "SCTV",
     "slug": "sctv-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/EMmOvnQ.png",
     "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8",
@@ -43,40 +43,39 @@
     "id": 5,
     "name": "Watch RCTI Live TV on Streamku",
     "slug": "rcti-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/iLFx8ia.png",
-    "url_stream": "http://103.66.62.83:8000/play/a00v/index.m3u8",
-    "id_category": 3
-  }
-  ,
+    "id_category": 3,
+    "url_stream_1": "http://103.66.62.83:8000/play/a00v/index.m3u8",
+    "url_stream_2": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd"
+  },
   {
     "id": 6,
-    "name": "Watch Trans7 Live TV on Streamku",
+    "name": "Trans7",
     "slug": "trans7-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/fAbGImS.png",
-    "url_stream": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1621475246_b344100_sleng.m3u8",
+    "url_stream": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
     "id_category": 3
-  }
-  ,
+  },
   {
     "id": 7,
-    "name": "Watch Trans Tv Live TV on Streamku",
+    "name": "Trans TV",
     "slug": "transtv-id",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",
-    "url_stream": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w264722743_b344100_sleng.m3u8",
+    "url_stream_1": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
+    "url_stream_2": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w264722743_b344100_sleng.m3u8",
     "id_category": 3
-  }
-  ,
+  },
   {
     "id": 8,
-    "name": "Watch Bein Sport Live TV on Streamku",
+    "name": "Bein Sport Extra",
     "slug": "bein-sport-extra-en",
-    "seo_title": "Streamku Live Sports TV – Watch Sports Online Anytime",
+    "seo_title": "Streamku Live Sports TV \u2013 Watch Sports Online Anytime",
     "desc_title": "Stream your favorite sports live on Streamku anytime and anywhere.",
     "image_url": "https://i.imgur.com/uJosqHh.png",
     "url_stream_1": "https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8",
@@ -86,5 +85,628 @@
     "url_stream_5": "https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8",
     "url_stream_6": "https://bein-xtra-xumo.amagi.tv/playlist.m3u8",
     "id_category": 1
+  },
+  {
+    "id": 9,
+    "name": "Fajar TV",
+    "slug": "fajar-tv",
+    "seo_title": "Watch Fajar TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Fajar TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 10,
+    "name": "Duta TV",
+    "slug": "duta-tv",
+    "seo_title": "Watch Duta TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Duta TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 11,
+    "name": "DMI TV",
+    "slug": "dmi-tv",
+    "seo_title": "Watch DMI TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch DMI TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://tvstreamcast.com/tawaftv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 12,
+    "name": "Jawa Pos TV Semarang",
+    "slug": "jawa-pos-tv-semarang",
+    "seo_title": "Watch Jawa Pos TV Semarang Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Jawa Pos TV Semarang live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 13,
+    "name": "JTV Kediri",
+    "slug": "jtv-kediri",
+    "seo_title": "Watch JTV Kediri Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch JTV Kediri live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 14,
+    "name": "Jek TV",
+    "slug": "jek-tv",
+    "seo_title": "Watch Jek TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Jek TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 15,
+    "name": "Kawanua TV",
+    "slug": "kawanua-tv",
+    "seo_title": "Watch Kawanua TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Kawanua TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 16,
+    "name": "RRI Net",
+    "slug": "rri-net",
+    "seo_title": "Watch RRI Net Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch RRI Net live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 17,
+    "name": "Sakti TV",
+    "slug": "sakti-tv",
+    "seo_title": "Watch Sakti TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Sakti TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 18,
+    "name": "RCTV",
+    "slug": "rctv",
+    "seo_title": "Watch RCTV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch RCTV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://v10.siar.us/rctv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 19,
+    "name": "Rinjani TV",
+    "slug": "rinjani-tv",
+    "seo_title": "Watch Rinjani TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Rinjani TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 20,
+    "name": "PJTV",
+    "slug": "pjtv",
+    "seo_title": "Watch PJTV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch PJTV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 21,
+    "name": "Music Information Channel",
+    "slug": "music-information-channel",
+    "seo_title": "Watch Music Information Channel Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Music Information Channel live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://mic.siar.us/mic/live/mic.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 22,
+    "name": "Rodja TV",
+    "slug": "rodja-tv",
+    "seo_title": "Watch Rodja TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Rodja TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://rodjatv.com/rodjatv/live.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 23,
+    "name": "SMTV",
+    "slug": "smtv",
+    "seo_title": "Watch SMTV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch SMTV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 24,
+    "name": "Salira TV",
+    "slug": "salira-tv",
+    "seo_title": "Watch Salira TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Salira TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "id_category": 3,
+    "url_stream_1": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+    "url_stream_2": "https://live.salira.tv:3870/stream/play.m3u8"
+  },
+  {
+    "id": 25,
+    "name": "Semarang TV",
+    "slug": "semarang-tv",
+    "seo_title": "Watch Semarang TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Semarang TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://116.254.112.74/hls/cakralive.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 26,
+    "name": "Sin Po TV",
+    "slug": "sin-po-tv",
+    "seo_title": "Watch Sin Po TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Sin Po TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
+    "id_category": 3
+  },
+  {
+    "id": 27,
+    "name": "Rajawali TV",
+    "slug": "rajawali-tv",
+    "seo_title": "Watch Rajawali TV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch Rajawali TV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "id_category": 3,
+    "url_stream_1": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+    "url_stream_2": "http://175.158.57.130:8888/stream/channelid/412436804"
+  },
+  {
+    "id": 28,
+    "name": "TV Mu",
+    "slug": "tv-mu",
+    "seo_title": "Watch TV Mu Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TV Mu live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "id_category": 3,
+    "url_stream_1": "https://e.siar.us/live/tvmu.m3u8",
+    "url_stream_2": "https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd"
+  },
+  {
+    "id": 29,
+    "name": "TVKU",
+    "slug": "tvku",
+    "seo_title": "Watch TVKU Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVKU live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://tvku.tv/hlsstream/hls/live.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 30,
+    "name": "TV MUI",
+    "slug": "tv-mui",
+    "seo_title": "Watch TV MUI Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TV MUI live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
+    "id_category": 3
+  },
+  {
+    "id": 31,
+    "name": "TV9 Nusantara",
+    "slug": "tv9-nusantara",
+    "seo_title": "Watch TV9 Nusantara Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TV9 Nusantara live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 32,
+    "name": "TV Tabalong",
+    "slug": "tv-tabalong",
+    "seo_title": "Watch TV Tabalong Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TV Tabalong live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 33,
+    "name": "TVRI Jakarta",
+    "slug": "tvri-jakarta",
+    "seo_title": "Watch TVRI Jakarta Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Jakarta live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 34,
+    "name": "TVRI Bangka Belitung",
+    "slug": "tvri-bangka-belitung",
+    "seo_title": "Watch TVRI Bangka Belitung Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Bangka Belitung live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 35,
+    "name": "TVRI",
+    "slug": "tvri",
+    "seo_title": "Watch TVRI Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 36,
+    "name": "TVRI Bali",
+    "slug": "tvri-bali",
+    "seo_title": "Watch TVRI Bali Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Bali live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 37,
+    "name": "TVRI Bengkulu",
+    "slug": "tvri-bengkulu",
+    "seo_title": "Watch TVRI Bengkulu Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Bengkulu live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 38,
+    "name": "TVRI Jawa Barat",
+    "slug": "tvri-jawa-barat",
+    "seo_title": "Watch TVRI Jawa Barat Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Jawa Barat live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 39,
+    "name": "TVRI Jambi",
+    "slug": "tvri-jambi",
+    "seo_title": "Watch TVRI Jambi Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Jambi live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 40,
+    "name": "TVRI Jawa Tengah",
+    "slug": "tvri-jawa-tengah",
+    "seo_title": "Watch TVRI Jawa Tengah Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Jawa Tengah live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 41,
+    "name": "TVRI Aceh",
+    "slug": "tvri-aceh",
+    "seo_title": "Watch TVRI Aceh Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Aceh live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 42,
+    "name": "TVRI Gorontalo",
+    "slug": "tvri-gorontalo",
+    "seo_title": "Watch TVRI Gorontalo Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Gorontalo live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 43,
+    "name": "TVRI Kalimantan Selatan",
+    "slug": "tvri-kalimantan-selatan",
+    "seo_title": "Watch TVRI Kalimantan Selatan Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Kalimantan Selatan live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 44,
+    "name": "TVRI Lampung",
+    "slug": "tvri-lampung",
+    "seo_title": "Watch TVRI Lampung Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Lampung live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 45,
+    "name": "TVRI Kalimantan Barat",
+    "slug": "tvri-kalimantan-barat",
+    "seo_title": "Watch TVRI Kalimantan Barat Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Kalimantan Barat live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 46,
+    "name": "TVRI Sulawesi Selatan",
+    "slug": "tvri-sulawesi-selatan",
+    "seo_title": "Watch TVRI Sulawesi Selatan Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sulawesi Selatan live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 47,
+    "name": "TVRI Jawa Timur",
+    "slug": "tvri-jawa-timur",
+    "seo_title": "Watch TVRI Jawa Timur Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Jawa Timur live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 48,
+    "name": "TVRI Sport",
+    "slug": "tvri-sport",
+    "seo_title": "Watch TVRI Sport Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sport live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+    "id_category": 1
+  },
+  {
+    "id": 49,
+    "name": "TVRI North Sulawesi",
+    "slug": "tvri-north-sulawesi",
+    "seo_title": "Watch TVRI North Sulawesi Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI North Sulawesi live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 50,
+    "name": "TVRI Papua",
+    "slug": "tvri-papua",
+    "seo_title": "Watch TVRI Papua Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Papua live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 51,
+    "name": "TVRI Nusa Tenggara Timur",
+    "slug": "tvri-nusa-tenggara-timur",
+    "seo_title": "Watch TVRI Nusa Tenggara Timur Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Nusa Tenggara Timur live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 52,
+    "name": "TVRI Sulawesi Tenggara",
+    "slug": "tvri-sulawesi-tenggara",
+    "seo_title": "Watch TVRI Sulawesi Tenggara Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sulawesi Tenggara live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 53,
+    "name": "TVRI Sulawesi Tengah",
+    "slug": "tvri-sulawesi-tengah",
+    "seo_title": "Watch TVRI Sulawesi Tengah Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sulawesi Tengah live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 54,
+    "name": "TVRI Sulawesi Barat",
+    "slug": "tvri-sulawesi-barat",
+    "seo_title": "Watch TVRI Sulawesi Barat Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sulawesi Barat live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 55,
+    "name": "TVRI Kalimantan Tengah",
+    "slug": "tvri-kalimantan-tengah",
+    "seo_title": "Watch TVRI Kalimantan Tengah Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Kalimantan Tengah live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 56,
+    "name": "TVRI Sumatera Selatan",
+    "slug": "tvri-sumatera-selatan",
+    "seo_title": "Watch TVRI Sumatera Selatan Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sumatera Selatan live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 57,
+    "name": "TVRI Kalimantan Timur",
+    "slug": "tvri-kalimantan-timur",
+    "seo_title": "Watch TVRI Kalimantan Timur Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Kalimantan Timur live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 58,
+    "name": "JTV Malang",
+    "slug": "jtv-malang",
+    "seo_title": "Watch JTV Malang Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch JTV Malang live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 59,
+    "name": "TVRI Nusa Tenggara Barat",
+    "slug": "tvri-nusa-tenggara-barat",
+    "seo_title": "Watch TVRI Nusa Tenggara Barat Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Nusa Tenggara Barat live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 60,
+    "name": "TVRI Riau",
+    "slug": "tvri-riau",
+    "seo_title": "Watch TVRI Riau Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Riau live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 61,
+    "name": "JTV Madiun",
+    "slug": "jtv-madiun",
+    "seo_title": "Watch JTV Madiun Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch JTV Madiun live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 62,
+    "name": "TVRI Maluku",
+    "slug": "tvri-maluku",
+    "seo_title": "Watch TVRI Maluku Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Maluku live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 63,
+    "name": "TVRI North Sumatra",
+    "slug": "tvri-north-sumatra",
+    "seo_title": "Watch TVRI North Sumatra Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI North Sumatra live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 64,
+    "name": "UGTV",
+    "slug": "ugtv",
+    "seo_title": "Watch UGTV Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch UGTV live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 65,
+    "name": "TVRI Sumatera Barat",
+    "slug": "tvri-sumatera-barat",
+    "seo_title": "Watch TVRI Sumatera Barat Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Sumatera Barat live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 66,
+    "name": "TVRI World",
+    "slug": "tvri-world",
+    "seo_title": "Watch TVRI World Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI World live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 67,
+    "name": "TVRI Yogyakarta",
+    "slug": "tvri-yogyakarta",
+    "seo_title": "Watch TVRI Yogyakarta Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI Yogyakarta live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 68,
+    "name": "My Kidz",
+    "slug": "my-kidz",
+    "seo_title": "Watch My Kidz Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch My Kidz live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
+    "id_category": 6
+  },
+  {
+    "id": 69,
+    "name": "BeritaSatu",
+    "slug": "beritasatu",
+    "seo_title": "Watch BeritaSatu Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch BeritaSatu live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 70,
+    "name": "TVRI West Papua",
+    "slug": "tvri-west-papua",
+    "seo_title": "Watch TVRI West Papua Live TV on Streamku \u2013 Free HD Streaming",
+    "desc_title": "Watch TVRI West Papua live TV on Streamku with high-quality HD streaming.",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/world-news.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "id_category": 3
   }
 ]
