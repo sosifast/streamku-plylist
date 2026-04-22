@@ -1,0 +1,1422 @@
+[
+  {
+    "id": 1,
+    "name": "ANTV",
+    "slug": "antv",
+    "seo_title": "ANTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton ANTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/6XpO7mkGVQns85enn0EmWepTy9V.png",
+    "url_stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 2,
+    "name": "Al-Bahjah TV",
+    "slug": "albahjah-tv",
+    "seo_title": "Al-Bahjah TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Al-Bahjah TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://202.150.161.117:8000/play/AlBahjahTV",
+    "id_category": 3
+  },
+  {
+    "id": 3,
+    "name": "Alwafa Tarim TV",
+    "slug": "alwafa-tarim-tv",
+    "seo_title": "Alwafa Tarim TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Alwafa Tarim TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 4,
+    "name": "Al-Iman TV",
+    "slug": "aliman-tv",
+    "seo_title": "Al-Iman TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Al-Iman TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://tv.aliman.id/aliman/live.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 5,
+    "name": "Ashiil TV",
+    "slug": "ashiil-tv",
+    "seo_title": "Ashiil TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Ashiil TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 6,
+    "name": "Rajawali TV",
+    "slug": "rajawali-tv",
+    "seo_title": "Rajawali TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Rajawali TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 7,
+    "name": "Batam TV",
+    "slug": "batam-tv",
+    "seo_title": "Batam TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Batam TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 8,
+    "name": "Bandung TV",
+    "slug": "bandung-tv",
+    "seo_title": "Bandung TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Bandung TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 9,
+    "name": "Astha TV",
+    "slug": "astha-tv",
+    "seo_title": "Astha TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Astha TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 10,
+    "name": "Astro Blitar TV",
+    "slug": "astro-blitar-tv",
+    "seo_title": "Astro Blitar TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Astro Blitar TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 11,
+    "name": "Biznet Adventure",
+    "slug": "biznet-adventure",
+    "seo_title": "Biznet Adventure Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Biznet Adventure live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
+    "id_category": 7
+  },
+  {
+    "id": 12,
+    "name": "BN Channel",
+    "slug": "bn-channel",
+    "seo_title": "BN Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton BN Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://175.158.57.130:8888/stream/channelid/1402218159",
+    "id_category": 2
+  },
+  {
+    "id": 13,
+    "name": "Biznet Kids",
+    "slug": "biznet-kids",
+    "seo_title": "Biznet Kids Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Biznet Kids live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+    "id_category": 6
+  },
+  {
+    "id": 14,
+    "name": "Balikpapan TV",
+    "slug": "balikpapan-tv",
+    "seo_title": "Balikpapan TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Balikpapan TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 15,
+    "name": "Banten TV",
+    "slug": "banten-tv",
+    "seo_title": "Banten TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Banten TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 16,
+    "name": "Biznet Lifestyle",
+    "slug": "biznet-lifestyle",
+    "seo_title": "Biznet Lifestyle Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Biznet Lifestyle live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+    "id_category": 7
+  },
+  {
+    "id": 17,
+    "name": "Banyumas TV",
+    "slug": "banyumas-tv",
+    "seo_title": "Banyumas TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Banyumas TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 18,
+    "name": "BRTV",
+    "slug": "brtv",
+    "seo_title": "BRTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton BRTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 19,
+    "name": "Fajar TV",
+    "slug": "fajar-tv",
+    "seo_title": "Fajar TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Fajar TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 20,
+    "name": "Banjar TV",
+    "slug": "banjar-tv",
+    "seo_title": "Banjar TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Banjar TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 21,
+    "name": "Bungo TV",
+    "slug": "bungo-tv",
+    "seo_title": "Bungo TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Bungo TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 22,
+    "name": "Davika TV",
+    "slug": "davika-tv",
+    "seo_title": "Davika TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Davika TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 23,
+    "name": "Dhamma TV",
+    "slug": "dhamma-tv",
+    "seo_title": "Dhamma TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Dhamma TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 24,
+    "name": "DM TV Malang",
+    "slug": "dm-tv-malang",
+    "seo_title": "DM TV Malang Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton DM TV Malang live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://e.siar.us/live/dmtv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 25,
+    "name": "Huma Betang TV",
+    "slug": "huma-betang-tv",
+    "seo_title": "Huma Betang TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Huma Betang TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 26,
+    "name": "Ficom Channel",
+    "slug": "ficom-channel",
+    "seo_title": "Ficom Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Ficom Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 27,
+    "name": "Garuda TV",
+    "slug": "garuda-tv",
+    "seo_title": "Garuda TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Garuda TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 28,
+    "name": "DMI TV",
+    "slug": "dmi-tv",
+    "seo_title": "DMI TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton DMI TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://tvstreamcast.com/tawaftv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 29,
+    "name": "DAAI TV",
+    "slug": "daai-tv",
+    "seo_title": "DAAI TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton DAAI TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 30,
+    "name": "Efarina TV",
+    "slug": "efarina-tv",
+    "seo_title": "Efarina TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Efarina TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 31,
+    "name": "Jawa Pos TV Bali",
+    "slug": "jawa-pos-tv-bali",
+    "seo_title": "Jawa Pos TV Bali Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV Bali live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 32,
+    "name": "Jawa Pos TV",
+    "slug": "jawa-pos-tv",
+    "seo_title": "Jawa Pos TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 33,
+    "name": "Jawa Pos TV Madiun",
+    "slug": "jawa-pos-tv-madiun",
+    "seo_title": "Jawa Pos TV Madiun Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV Madiun live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 34,
+    "name": "Jawa Pos TV Jakarta",
+    "slug": "jawa-pos-tv-jakarta",
+    "seo_title": "Jawa Pos TV Jakarta Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV Jakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 35,
+    "name": "Indonesiana.TV",
+    "slug": "indonesianatv",
+    "seo_title": "Indonesiana.TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Indonesiana.TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://tvstreamcast.com/indonesiana.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 36,
+    "name": "Jawa Pos TV Magelang",
+    "slug": "jawa-pos-tv-magelang",
+    "seo_title": "Jawa Pos TV Magelang Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV Magelang live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 37,
+    "name": "Jawa Pos TV Semarang",
+    "slug": "jawa-pos-tv-semarang",
+    "seo_title": "Jawa Pos TV Semarang Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jawa Pos TV Semarang live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 38,
+    "name": "Duta TV",
+    "slug": "duta-tv",
+    "seo_title": "Duta TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Duta TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 39,
+    "name": "CNBC Indonesia",
+    "slug": "cnbc-indonesia",
+    "seo_title": "CNBC Indonesia Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton CNBC Indonesia live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 40,
+    "name": "JTV",
+    "slug": "jtv",
+    "seo_title": "JTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton JTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 41,
+    "name": "JTV Kediri",
+    "slug": "jtv-kediri",
+    "seo_title": "JTV Kediri Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton JTV Kediri live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 42,
+    "name": "Kawanua TV",
+    "slug": "kawanua-tv",
+    "seo_title": "Kawanua TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Kawanua TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 43,
+    "name": "Izzah TV",
+    "slug": "izzah-tv",
+    "seo_title": "Izzah TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Izzah TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 44,
+    "name": "Jogja Istimewa TV",
+    "slug": "jogja-istimewa-tv",
+    "seo_title": "Jogja Istimewa TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jogja Istimewa TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 45,
+    "name": "BN Channel",
+    "slug": "bn-channel",
+    "seo_title": "BN Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton BN Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://flv.intechmedia.net/live/ch112.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 46,
+    "name": "Kilisuci TV",
+    "slug": "kilisuci-tv",
+    "seo_title": "Kilisuci TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Kilisuci TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 47,
+    "name": "Jogja TV",
+    "slug": "jogja-tv",
+    "seo_title": "Jogja TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jogja TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 48,
+    "name": "Dhoho TV",
+    "slug": "dhoho-tv",
+    "seo_title": "Dhoho TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Dhoho TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 49,
+    "name": "I Am Channel",
+    "slug": "i-am-channel",
+    "seo_title": "I Am Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton I Am Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 50,
+    "name": "Lingkar TV",
+    "slug": "lingkar-tv",
+    "seo_title": "Lingkar TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Lingkar TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 51,
+    "name": "Madu TV",
+    "slug": "madu-tv",
+    "seo_title": "Madu TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Madu TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 52,
+    "name": "Matrix TV Yogyakarta",
+    "slug": "matrix-tv-yogyakarta",
+    "seo_title": "Matrix TV Yogyakarta Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Matrix TV Yogyakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.matrixtv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 53,
+    "name": "MBG TV",
+    "slug": "mbg-tv",
+    "seo_title": "MBG TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton MBG TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 54,
+    "name": "Magna Channel",
+    "slug": "magna-channel",
+    "seo_title": "Magna Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Magna Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 55,
+    "name": "MDTV",
+    "slug": "mdtv",
+    "seo_title": "MDTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton MDTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 56,
+    "name": "Metro TV",
+    "slug": "metro-tv",
+    "seo_title": "Metro TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Metro TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 57,
+    "name": "MQTV",
+    "slug": "mqtv",
+    "seo_title": "MQTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton MQTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 58,
+    "name": "KTV",
+    "slug": "ktv",
+    "seo_title": "KTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton KTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/pblprS2dwTv9p69RGJkscm5365o.png",
+    "url_stream": "https://flv.intechmedia.net/live/ch118.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 59,
+    "name": "Nabawi TV",
+    "slug": "nabawi-tv",
+    "seo_title": "Nabawi TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Nabawi TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://202.150.161.117:8000/play/NabawiTV",
+    "id_category": 3
+  },
+  {
+    "id": 60,
+    "name": "Padang TV",
+    "slug": "padang-tv",
+    "seo_title": "Padang TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Padang TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 61,
+    "name": "Music Information Channel",
+    "slug": "music-information-channel",
+    "seo_title": "Music Information Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Music Information Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://mic.siar.us/mic/live/mic.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 62,
+    "name": "Nusantara TV",
+    "slug": "nusantara-tv",
+    "seo_title": "Nusantara TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Nusantara TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 63,
+    "name": "PONTV",
+    "slug": "pontv",
+    "seo_title": "PONTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton PONTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 64,
+    "name": "Madani TV",
+    "slug": "madani-tv",
+    "seo_title": "Madani TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Madani TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 65,
+    "name": "Radar Tasikmalaya TV",
+    "slug": "radar-tasikmalaya-tv",
+    "seo_title": "Radar Tasikmalaya TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Radar Tasikmalaya TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 66,
+    "name": "Caruban TV",
+    "slug": "caruban-tv",
+    "seo_title": "Caruban TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Caruban TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.carubantv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 67,
+    "name": "Riau TV",
+    "slug": "riau-tv",
+    "seo_title": "Riau TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Riau TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 68,
+    "name": "RCTV",
+    "slug": "rctv",
+    "seo_title": "RCTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton RCTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/eFSACJaHlGL4X9UwimqWs2n0URg.png",
+    "url_stream": "https://v10.siar.us/rctv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 69,
+    "name": "Jek TV",
+    "slug": "jek-tv",
+    "seo_title": "Jek TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jek TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 70,
+    "name": "RRI Net",
+    "slug": "rri-net",
+    "seo_title": "RRI Net Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton RRI Net live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 71,
+    "name": "Salam TV",
+    "slug": "salam-tv",
+    "seo_title": "Salam TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Salam TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://salamtv.siar.us/live/salamtv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 72,
+    "name": "Rakyat Bengkulu TV",
+    "slug": "rakyat-bengkulu-tv",
+    "seo_title": "Rakyat Bengkulu TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Rakyat Bengkulu TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://flv.intechmedia.net/live/ch59.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 73,
+    "name": "Rodja TV",
+    "slug": "rodja-tv",
+    "seo_title": "Rodja TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Rodja TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://rodjatv.com/rodjatv/live.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 74,
+    "name": "Sakti TV",
+    "slug": "sakti-tv",
+    "seo_title": "Sakti TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Sakti TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 75,
+    "name": "Semarang TV",
+    "slug": "semarang-tv",
+    "seo_title": "Semarang TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Semarang TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://116.254.112.74/hls/cakralive.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 76,
+    "name": "Sangaji TV",
+    "slug": "sangaji-tv",
+    "seo_title": "Sangaji TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Sangaji TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 77,
+    "name": "SMTV",
+    "slug": "smtv",
+    "seo_title": "SMTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton SMTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 78,
+    "name": "Rinjani TV",
+    "slug": "rinjani-tv",
+    "seo_title": "Rinjani TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Rinjani TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 79,
+    "name": "SMTV",
+    "slug": "smtv",
+    "seo_title": "SMTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton SMTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://e.siar.us/live/smtv.m3u8",
+    "id_category": 4
+  },
+  {
+    "id": 80,
+    "name": "Selaparang TV",
+    "slug": "selaparang-tv",
+    "seo_title": "Selaparang TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Selaparang TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 81,
+    "name": "Sriwijaya TV",
+    "slug": "sriwijaya-tv",
+    "seo_title": "Sriwijaya TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Sriwijaya TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 82,
+    "name": "Sampit TV",
+    "slug": "sampit-tv",
+    "seo_title": "Sampit TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Sampit TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 83,
+    "name": "Stara TV",
+    "slug": "stara-tv",
+    "seo_title": "Stara TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://stream.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 84,
+    "name": "Salira TV",
+    "slug": "salira-tv",
+    "seo_title": "Salira TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Salira TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 85,
+    "name": "Salira TV",
+    "slug": "salira-tv",
+    "seo_title": "Salira TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Salira TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://live.salira.tv:3870/stream/play.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 86,
+    "name": "STV",
+    "slug": "stv",
+    "seo_title": "STV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton STV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/o5OSG8ALvwrhQLkFBPVWiIXPuWl.png",
+    "url_stream": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 87,
+    "name": "Stara TV Jakarta",
+    "slug": "stara-tv-jakarta",
+    "seo_title": "Stara TV Jakarta Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV Jakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://jakarta.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 88,
+    "name": "Sultra TV",
+    "slug": "sultra-tv",
+    "seo_title": "Sultra TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Sultra TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 89,
+    "name": "Stara TV Parahyangan",
+    "slug": "stara-tv-parahyangan",
+    "seo_title": "Stara TV Parahyangan Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV Parahyangan live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 90,
+    "name": "Surabaya TV",
+    "slug": "surabaya-tv",
+    "seo_title": "Surabaya TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Surabaya TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://e.siar.us/live/surabayatv.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 91,
+    "name": "Surau TV",
+    "slug": "surau-tv",
+    "seo_title": "Surau TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Surau TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 92,
+    "name": "TATV",
+    "slug": "tatv",
+    "seo_title": "TATV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TATV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 93,
+    "name": "Timor TV",
+    "slug": "timor-tv",
+    "seo_title": "Timor TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Timor TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 94,
+    "name": "TV9 Nusantara",
+    "slug": "tv9-nusantara",
+    "seo_title": "TV9 Nusantara Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TV9 Nusantara live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 95,
+    "name": "TV Mu",
+    "slug": "tv-mu",
+    "seo_title": "TV Mu Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TV Mu live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://e.siar.us/live/tvmu.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 96,
+    "name": "Stara TV Cianjur",
+    "slug": "stara-tv-cianjur",
+    "seo_title": "Stara TV Cianjur Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV Cianjur live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 97,
+    "name": "tvOne",
+    "slug": "tvone",
+    "seo_title": "tvOne Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton tvOne live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 98,
+    "name": "Trans TV",
+    "slug": "trans-tv",
+    "seo_title": "Trans TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Trans TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/7k6LEMLTtmiMfSqZ8Ai7DMpl2W3.png",
+    "url_stream": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 99,
+    "name": "TVRI",
+    "slug": "tvri",
+    "seo_title": "TVRI Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 100,
+    "name": "Trans7",
+    "slug": "trans7",
+    "seo_title": "Trans7 Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Trans7 live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/w31NBcd9jhVFCp6BFzhhTpFyGSL.png",
+    "url_stream": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 101,
+    "name": "TVKU",
+    "slug": "tvku",
+    "seo_title": "TVKU Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVKU live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://tvku.tv/hlsstream/hls/live.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 102,
+    "name": "TVRI Aceh",
+    "slug": "tvri-aceh",
+    "seo_title": "TVRI Aceh Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Aceh live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 103,
+    "name": "Stara TV Bandung",
+    "slug": "stara-tv-bandung",
+    "seo_title": "Stara TV Bandung Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV Bandung live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://bandung.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 104,
+    "name": "TVRI Bali",
+    "slug": "tvri-bali",
+    "seo_title": "TVRI Bali Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Bali live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 105,
+    "name": "TVRI Bangka Belitung",
+    "slug": "tvri-bangka-belitung",
+    "seo_title": "TVRI Bangka Belitung Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Bangka Belitung live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 106,
+    "name": "Stara TV Malang",
+    "slug": "stara-tv-malang",
+    "seo_title": "Stara TV Malang Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Stara TV Malang live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://malang.staratv.id/hls/0/stream.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 107,
+    "name": "TVRI Gorontalo",
+    "slug": "tvri-gorontalo",
+    "seo_title": "TVRI Gorontalo Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Gorontalo live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 108,
+    "name": "TVRI Bengkulu",
+    "slug": "tvri-bengkulu",
+    "seo_title": "TVRI Bengkulu Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Bengkulu live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 109,
+    "name": "TVRI Jambi",
+    "slug": "tvri-jambi",
+    "seo_title": "TVRI Jambi Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Jambi live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 110,
+    "name": "TVRI Jawa Barat",
+    "slug": "tvri-jawa-barat",
+    "seo_title": "TVRI Jawa Barat Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Jawa Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 111,
+    "name": "TVRI Jawa Tengah",
+    "slug": "tvri-jawa-tengah",
+    "seo_title": "TVRI Jawa Tengah Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Jawa Tengah live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 112,
+    "name": "TVRI Jakarta",
+    "slug": "tvri-jakarta",
+    "seo_title": "TVRI Jakarta Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Jakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 113,
+    "name": "TVRI Jawa Timur",
+    "slug": "tvri-jawa-timur",
+    "seo_title": "TVRI Jawa Timur Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Jawa Timur live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 114,
+    "name": "TVRI Kalimantan Selatan",
+    "slug": "tvri-kalimantan-selatan",
+    "seo_title": "TVRI Kalimantan Selatan Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Kalimantan Selatan live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 115,
+    "name": "TVRI Kalimantan Barat",
+    "slug": "tvri-kalimantan-barat",
+    "seo_title": "TVRI Kalimantan Barat Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Kalimantan Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 116,
+    "name": "TVRI Kalimantan Tengah",
+    "slug": "tvri-kalimantan-tengah",
+    "seo_title": "TVRI Kalimantan Tengah Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Kalimantan Tengah live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 117,
+    "name": "TVRI Maluku",
+    "slug": "tvri-maluku",
+    "seo_title": "TVRI Maluku Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Maluku live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 118,
+    "name": "TVRI Lampung",
+    "slug": "tvri-lampung",
+    "seo_title": "TVRI Lampung Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Lampung live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 119,
+    "name": "TVRI Kalimantan Timur",
+    "slug": "tvri-kalimantan-timur",
+    "seo_title": "TVRI Kalimantan Timur Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Kalimantan Timur live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 120,
+    "name": "TVRI North Sulawesi",
+    "slug": "tvri-north-sulawesi",
+    "seo_title": "TVRI North Sulawesi Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI North Sulawesi live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 121,
+    "name": "TVRI Nusa Tenggara Timur",
+    "slug": "tvri-nusa-tenggara-timur",
+    "seo_title": "TVRI Nusa Tenggara Timur Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Nusa Tenggara Timur live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 122,
+    "name": "TVRI Papua",
+    "slug": "tvri-papua",
+    "seo_title": "TVRI Papua Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Papua live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 123,
+    "name": "TVRI Riau",
+    "slug": "tvri-riau",
+    "seo_title": "TVRI Riau Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Riau live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 124,
+    "name": "TVRI Sulawesi Barat",
+    "slug": "tvri-sulawesi-barat",
+    "seo_title": "TVRI Sulawesi Barat Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sulawesi Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 125,
+    "name": "TVRI Nusa Tenggara Barat",
+    "slug": "tvri-nusa-tenggara-barat",
+    "seo_title": "TVRI Nusa Tenggara Barat Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Nusa Tenggara Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 126,
+    "name": "TVRI Sulawesi Selatan",
+    "slug": "tvri-sulawesi-selatan",
+    "seo_title": "TVRI Sulawesi Selatan Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sulawesi Selatan live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 127,
+    "name": "TVRI Sport",
+    "slug": "tvri-sport",
+    "seo_title": "TVRI Sport Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sport live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+    "id_category": 1
+  },
+  {
+    "id": 128,
+    "name": "TVRI North Sumatra",
+    "slug": "tvri-north-sumatra",
+    "seo_title": "TVRI North Sumatra Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI North Sumatra live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 129,
+    "name": "TVRI Sulawesi Tenggara",
+    "slug": "tvri-sulawesi-tenggara",
+    "seo_title": "TVRI Sulawesi Tenggara Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sulawesi Tenggara live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 130,
+    "name": "TVRI Sumatera Selatan",
+    "slug": "tvri-sumatera-selatan",
+    "seo_title": "TVRI Sumatera Selatan Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sumatera Selatan live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 131,
+    "name": "TVRI Sulawesi Tengah",
+    "slug": "tvri-sulawesi-tengah",
+    "seo_title": "TVRI Sulawesi Tengah Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sulawesi Tengah live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 132,
+    "name": "TVRI Sumatera Barat",
+    "slug": "tvri-sumatera-barat",
+    "seo_title": "TVRI Sumatera Barat Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Sumatera Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 133,
+    "name": "JTV Malang",
+    "slug": "jtv-malang",
+    "seo_title": "JTV Malang Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton JTV Malang live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 134,
+    "name": "JTV Madiun",
+    "slug": "jtv-madiun",
+    "seo_title": "JTV Madiun Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton JTV Madiun live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 135,
+    "name": "TVRI West Papua",
+    "slug": "tvri-west-papua",
+    "seo_title": "TVRI West Papua Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI West Papua live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 136,
+    "name": "TVRI Yogyakarta",
+    "slug": "tvri-yogyakarta",
+    "seo_title": "TVRI Yogyakarta Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI Yogyakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 137,
+    "name": "TVRI World",
+    "slug": "tvri-world",
+    "seo_title": "TVRI World Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton TVRI World live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 138,
+    "name": "Rajawali TV",
+    "slug": "rajawali-tv",
+    "seo_title": "Rajawali TV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Rajawali TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "http://175.158.57.130:8888/stream/channelid/412436804",
+    "id_category": 3
+  },
+  {
+    "id": 139,
+    "name": "VTV",
+    "slug": "vtv",
+    "seo_title": "VTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton VTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://flv.intechmedia.net/live/ch107.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 140,
+    "name": "BTV",
+    "slug": "btv",
+    "seo_title": "BTV Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton BTV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://jaruba.github.io/channel-logos/export/transparent-color/weRlr6YYB89FAbwq0Rln5rMEFkW.png",
+    "url_stream": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
+    "id_category": 3
+  },
+  {
+    "id": 141,
+    "name": "Jakarta Globe News Channel",
+    "slug": "jakarta-globe-news-channel",
+    "seo_title": "Jakarta Globe News Channel Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton Jakarta Globe News Channel live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
+    "id_category": 2
+  },
+  {
+    "id": 142,
+    "name": "BeritaSatu",
+    "slug": "beritasatu",
+    "seo_title": "BeritaSatu Live Streaming - Nonton TV Online Gratis",
+    "desc_title": "Nonton BeritaSatu live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
+    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "url_stream": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+    "id_category": 2
+  }
+]
