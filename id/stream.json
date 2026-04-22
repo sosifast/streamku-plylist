@@ -15,7 +15,7 @@
     "slug": "albahjah-tv",
     "seo_title": "Al-Bahjah TV Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton Al-Bahjah TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/id/0/0c/Logo_Al-Bahjah_TV.png",
+    "image_url": "https://thumbor.prod.vidiocdn.com/9txsiiQ9IP3LT1y1DHEQSexwxEA=/1000x310/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/44576781/albahjahtv-9983c9.jpg",
     "url_stream": "http://202.150.161.117:8000/play/AlBahjahTV",
     "id_category": 3
   },
@@ -45,7 +45,7 @@
     "slug": "ashiil-tv",
     "seo_title": "Ashiil TV Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton Ashiil TV live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/id/thumb/9/98/Logo_Ashiil_TV.png/330px-Logo_Ashiil_TV.png",
     "url_stream": "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
     "id_category": 3
   },
@@ -105,7 +105,7 @@
     "slug": "biznet-adventure",
     "seo_title": "Biznet Adventure Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton Biznet Adventure live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "image_url": "https://www.biznetiptv.com/img/logo-biznetiptv-light.png",
     "url_stream": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
     "id_category": 7
   },
@@ -125,7 +125,7 @@
     "slug": "biznet-kids",
     "seo_title": "Biznet Kids Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton Biznet Kids live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "image_url": "https://www.biznetiptv.com/img/logo-biznetiptv-light.png",
     "url_stream": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
     "id_category": 6
   },
@@ -155,7 +155,7 @@
     "slug": "biznet-lifestyle",
     "seo_title": "Biznet Lifestyle Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton Biznet Lifestyle live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://ik.imagekit.io/ulmmqacvb/streamku.net/setting.png",
+    "image_url": "https://www.biznetiptv.com/img/logo-biznetiptv-light.png",
     "url_stream": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
     "id_category": 7
   },
@@ -985,7 +985,7 @@
     "slug": "tvri",
     "seo_title": "TVRI Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
     "id_category": 3
   },
@@ -1015,7 +1015,7 @@
     "slug": "tvri-aceh",
     "seo_title": "TVRI Aceh Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Aceh live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
     "id_category": 3
   },
@@ -1035,7 +1035,7 @@
     "slug": "tvri-bali",
     "seo_title": "TVRI Bali Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Bali live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
     "id_category": 3
   },
@@ -1045,7 +1045,7 @@
     "slug": "tvri-bangka-belitung",
     "seo_title": "TVRI Bangka Belitung Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Bangka Belitung live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
     "id_category": 3
   },
@@ -1265,7 +1265,7 @@
     "slug": "tvri-sport",
     "seo_title": "TVRI Sport Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Sport live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_TVRI_Sport.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
     "id_category": 1
   },
@@ -1275,7 +1275,7 @@
     "slug": "tvri-north-sumatra",
     "seo_title": "TVRI North Sumatra Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI North Sumatra live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
     "id_category": 3
   },
@@ -1285,7 +1285,7 @@
     "slug": "tvri-sulawesi-tenggara",
     "seo_title": "TVRI Sulawesi Tenggara Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Sulawesi Tenggara live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
     "id_category": 3
   },
@@ -1295,7 +1295,7 @@
     "slug": "tvri-sumatera-selatan",
     "seo_title": "TVRI Sumatera Selatan Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Sumatera Selatan live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
     "id_category": 3
   },
@@ -1305,7 +1305,7 @@
     "slug": "tvri-sulawesi-tengah",
     "seo_title": "TVRI Sulawesi Tengah Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Sulawesi Tengah live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
     "id_category": 3
   },
@@ -1315,7 +1315,7 @@
     "slug": "tvri-sumatera-barat",
     "seo_title": "TVRI Sumatera Barat Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Sumatera Barat live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
     "id_category": 3
   },
@@ -1345,7 +1345,7 @@
     "slug": "tvri-west-papua",
     "seo_title": "TVRI West Papua Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI West Papua live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
     "id_category": 3
   },
@@ -1355,7 +1355,7 @@
     "slug": "tvri-yogyakarta",
     "seo_title": "TVRI Yogyakarta Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI Yogyakarta live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_TVRI_2019.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
     "id_category": 3
   },
@@ -1365,7 +1365,7 @@
     "slug": "tvri-world",
     "seo_title": "TVRI World Live Streaming - Nonton TV Online Gratis",
     "desc_title": "Nonton TVRI World live streaming gratis dengan kualitas HD di Streamku. Nikmati siaran favorit Anda kapan saja dan di mana saja. Klik di sini sekarang!",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_TVRI_World.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TVRILogo2019.svg",
     "url_stream": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "id_category": 3
   },
