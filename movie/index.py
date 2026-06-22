@@ -8,12 +8,15 @@ import os
 TMDB_API_KEY = "4eb4d8a4aab96ac282350e006213a02f"  # <-- Ganti dengan API Key TMDB kamu!
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
+TMDB_IMAGE_BASE_ORIGINAL = "https://image.tmdb.org/t/p/original"
 
 # Konfigurasi pengambilan data
-MAX_PAGES = 5000  # Jumlah halaman yang akan diambil (setiap halaman ~20 film)
-LANGUAGE = "en-US"  # Bahasa Indonesia (ganti ke "en-US" untuk Inggris)
+MAX_PAGES = 1  # Jumlah halaman yang akan diambil (setiap halaman ~20 film)
+LANGUAGE = "id-ID"  # Bahasa Indonesia (ganti ke "en-US" untuk Inggris)
 REGION = "ID"  # Region Indonesia
 SORT_BY = "popularity.desc"  # Urutkan berdasarkan popularitas
+MAX_ACTORS = 20  # Maksimal aktor yang diambil per film
+MAX_CREW = 10  # Maksimal kru yang diambil per film
 
 # ==================== FUNGSI UTAMA ====================
 def get_movies_from_tmdb():
@@ -53,8 +56,11 @@ def get_movies_from_tmdb():
                     print(f"⚠️  Halaman {page} tidak ada film, berhenti...")
                     break
                 
-                # Proses setiap film
-                for movie in movies:
+                # Proses setiap film dengan detail lengkap
+                for idx, movie in enumerate(movies):
+                    movie_id = movie.get("id")
+                    print(f"  🎬 Memproses film {idx + 1}/{len(movies)} (ID: {movie_id})...")
+                    
                     processed_movie = process_movie_data(movie)
                     all_movies.append(processed_movie)
                 
@@ -67,7 +73,7 @@ def get_movies_from_tmdb():
                 break
             
             # Jeda untuk menghindari rate limit
-            time.sleep(0.2)
+            time.sleep(0.5)
             
         except Exception as e:
             print(f"❌ Error halaman {page}: {str(e)}")
@@ -75,21 +81,113 @@ def get_movies_from_tmdb():
     
     return all_movies
 
+def get_movie_details(movie_id):
+    """Ambil detail film lengkap dan credits (aktor & sutradara)"""
+    details = {}
+    credits = {}
+    
+    try:
+        # Ambil detail film
+        detail_url = f"{TMDB_BASE_URL}/movie/{movie_id}"
+        detail_params = {
+            "api_key": TMDB_API_KEY,
+            "language": LANGUAGE,
+            "append_to_response": "videos,keywords,similar,recommendations"
+        }
+        
+        detail_response = requests.get(detail_url, params=detail_params, timeout=30)
+        if detail_response.status_code == 200:
+            details = detail_response.json()
+        
+        # Ambil credits (aktor & kru)
+        credits_url = f"{TMDB_BASE_URL}/movie/{movie_id}/credits"
+        credits_params = {
+            "api_key": TMDB_API_KEY,
+            "language": LANGUAGE
+        }
+        
+        credits_response = requests.get(credits_url, params=credits_params, timeout=30)
+        if credits_response.status_code == 200:
+            credits = credits_response.json()
+            
+    except Exception as e:
+        print(f"    ⚠️  Gagal mengambil detail film: {str(e)}")
+    
+    return details, credits
+
 def process_movie_data(movie):
     """Proses data film mentah dari TMDB menjadi format yang diinginkan"""
     
-    # Ambil data dasar
     movie_id = movie.get("id")
+    
+    # Ambil detail dan credits
+    details, credits = get_movie_details(movie_id)
+    
+    # Ambil data dasar
     title = movie.get("title", "")
     original_title = movie.get("original_title", "")
-    overview = movie.get("overview", "")
-    release_date = movie.get("release_date", "")
-    poster_path = movie.get("poster_path", "")
-    backdrop_path = movie.get("backdrop_path", "")
-    vote_average = movie.get("vote_average", 0)
-    vote_count = movie.get("vote_count", 0)
-    popularity = movie.get("popularity", 0)
+    overview = movie.get("overview", details.get("overview", ""))
+    release_date = movie.get("release_date", details.get("release_date", ""))
+    poster_path = movie.get("poster_path", details.get("poster_path", ""))
+    backdrop_path = movie.get("backdrop_path", details.get("backdrop_path", ""))
+    vote_average = movie.get("vote_average", details.get("vote_average", 0))
+    vote_count = movie.get("vote_count", details.get("vote_count", 0))
+    popularity = movie.get("popularity", details.get("popularity", 0))
     genre_ids = movie.get("genre_ids", [])
+    
+    # Data tambahan dari detail
+    runtime = details.get("runtime", 0)
+    tagline = details.get("tagline", "")
+    status = details.get("status", "")
+    budget = details.get("budget", 0)
+    revenue = details.get("revenue", 0)
+    imdb_id = details.get("imdb_id", "")
+    homepage = details.get("homepage", "")
+    
+    # Genres dari detail
+    genres = details.get("genres", [])
+    
+    # Videos
+    videos = details.get("videos", {}).get("results", [])
+    trailer = next((v for v in videos if v.get("type") == "Trailer"), None)
+    
+    # Keywords
+    keywords = details.get("keywords", {}).get("keywords", [])
+    
+    # Proses aktor
+    cast = credits.get("cast", [])
+    actors = []
+    for actor in cast[:MAX_ACTORS]:
+        actors.append({
+            "id": actor.get("id"),
+            "name": actor.get("name"),
+            "character": actor.get("character"),
+            "profile_path": f"{TMDB_IMAGE_BASE}{actor.get('profile_path')}" if actor.get("profile_path") else "",
+            "order": actor.get("order")
+        })
+    
+    # Proses sutradara dan kru
+    crew = credits.get("crew", [])
+    directors = []
+    writers = []
+    producers = []
+    
+    for member in crew:
+        job = member.get("job", "")
+        member_data = {
+            "id": member.get("id"),
+            "name": member.get("name"),
+            "job": job,
+            "department": member.get("department"),
+            "profile_path": f"{TMDB_IMAGE_BASE}{member.get('profile_path')}" if member.get("profile_path") else ""
+        }
+        
+        if job == "Director":
+            directors.append(member_data)
+        elif job in ["Screenplay", "Writer", "Author"]:
+            writers.append(member_data)
+        elif job == "Producer":
+            producers.append(member_data)
     
     # Buat URL gambar
     poster_url = f"{TMDB_IMAGE_BASE}{poster_path}" if poster_path else ""
@@ -114,15 +212,29 @@ def process_movie_data(movie):
         "seo_title": seo_title,
         "desc_title": desc_title,
         "overview": overview,
+        "tagline": tagline,
         "release_date": release_date,
         "year": year,
+        "runtime": runtime,
+        "status": status,
+        "budget": budget,
+        "revenue": revenue,
+        "imdb_id": imdb_id,
+        "homepage": homepage,
         "poster_url": poster_url,
         "backdrop_url": backdrop_url,
         "vote_average": vote_average,
         "vote_count": vote_count,
         "popularity": popularity,
         "genre_ids": genre_ids,
-        "adult": movie.get("adult", False)
+        "genres": genres,
+        "adult": movie.get("adult", False),
+        "actors": actors,
+        "directors": directors,
+        "writers": writers,
+        "producers": producers,
+        "trailer": trailer,
+        "keywords": keywords
     }
 
 def save_movies_to_database(movies):
