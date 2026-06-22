@@ -11,8 +11,8 @@ TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 TMDB_IMAGE_BASE_ORIGINAL = "https://image.tmdb.org/t/p/original"
 
 # Konfigurasi pengambilan data
-MAX_PAGES = 1  # Jumlah halaman yang akan diambil (setiap halaman ~20 film)
-LANGUAGE = "id-ID"  # Bahasa Indonesia (ganti ke "en-US" untuk Inggris)
+MAX_PAGES = 1000  # Jumlah halaman yang akan diambil (setiap halaman ~20 film)
+LANGUAGE = "en-us"  # Bahasa Indonesia (ganti ke "en-US" untuk Inggris)
 REGION = "ID"  # Region Indonesia
 SORT_BY = "popularity.desc"  # Urutkan berdasarkan popularitas
 MAX_ACTORS = 20  # Maksimal aktor yang diambil per film
