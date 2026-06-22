@@ -1,56 +1,639 @@
 [
   {
-    "status": "success",
-    "data": {
-      "id": "episode-1-dia-bukan-hanya-adikmu-6982ec316052832c9a0e7edc-rcqcraciri",
-      "series_name": "Dia Bukan Hanya Adikmu",
-      "episode_name": "Episode 1 - Dia Bukan Hanya Adikmu",
-      "episode_no": 1,
-      "duration": "PT3M32S",
-      "description": "Taipan bisnis Eliza Reed pulang untuk menyelamatkan perusahaan suaminya, Julian, yang sedang goyah, namun malah menemukan kedekatan mencurigakan antara Julian dan sekretarisnya, Quinny. Julian bersikeras Quinny hanya dianggap adik, tetapi wanita itu menguasai barang pribadi dan warisan mendiang ibu Eliza. Muak dengan pilih kasih dan pengkhianatan suaminya, Eliza akhirnya sadar dan memutuskan untuk bercerai.",
-      "thumbnail": "https://v-mps.crazymaplestudios.com/Snapshots/453723ad89944b2a.jpg",
-      "video_url": "https://v-mps.crazymaplestudios.com/vod-112094/f0d515f20e1771f1bfef4177d1c00102/79016b3c542347099b53bc56903b27e3-7ad6fb0e6a8b19244656acf8866b6807-sd.m3u8",
-      "embed_url": "https://www.reelshort.com/in/embed/6982ec316052832c9a0e7edc-rcqcraciri",
-      "views": 10263,
-      "rating": 4.7,
-      "release_date": "2026-02-20",
-      "actors": []
-    }
+    "code": 200,
+    "episodeNumber": 1,
+    "locked": false,
+    "msg": "SUCCESS",
+    "number": 1,
+    "qualityList": [
+      {
+        "label": "540p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/60ccd3f31b7a71f1a06687c7371d0102/9d51621e23234e8abcdbdb4cef001508-b943267fe24bbec8ff87362fe463fe9e-ld.m3u8"
+      },
+      {
+        "label": "720p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/60ccd3f31b7a71f1a06687c7371d0102/9d51621e23234e8abcdbdb4cef001508-043a153180c2191fc4ffa9375474b9b5-sd.m3u8"
+      },
+      {
+        "isDefault": true,
+        "label": "1080p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/60ccd3f31b7a71f1a06687c7371d0102/9d51621e23234e8abcdbdb4cef001508-b557b36562f33583744693aca8db660f-hd.m3u8"
+      }
+    ],
+    "videoUrl": "https://v-mps.crazymaplestudios.com/vod-112094/60ccd3f31b7a71f1a06687c7371d0102/9d51621e23234e8abcdbdb4cef001508-b557b36562f33583744693aca8db660f-hd.m3u8"
   },
   {
-    "status": "success",
-    "data": {
-      "id": "episode-2-dia-bukan-hanya-adikmu-6982ec316052832c9a0e7edc-rcqcraciri",
-      "series_name": "Dia Bukan Hanya Adikmu",
-      "episode_name": "Episode 1 - Dia Bukan Hanya Adikmu",
-      "episode_no": 1,
-      "duration": "PT3M32S",
-      "description": "Taipan bisnis Eliza Reed pulang untuk menyelamatkan perusahaan suaminya, Julian, yang sedang goyah, namun malah menemukan kedekatan mencurigakan antara Julian dan sekretarisnya, Quinny. Julian bersikeras Quinny hanya dianggap adik, tetapi wanita itu menguasai barang pribadi dan warisan mendiang ibu Eliza. Muak dengan pilih kasih dan pengkhianatan suaminya, Eliza akhirnya sadar dan memutuskan untuk bercerai.",
-      "thumbnail": "https://v-mps.crazymaplestudios.com/Snapshots/453723ad89944b2a.jpg",
-      "video_url": "https://v-mps.crazymaplestudios.com/vod-112094/f0d515f20e1771f1bfef4177d1c00102/79016b3c542347099b53bc56903b27e3-7ad6fb0e6a8b19244656acf8866b6807-sd.m3u8",
-      "embed_url": "https://www.reelshort.com/in/embed/6982ec316052832c9a0e7edc-rcqcraciri",
-      "views": 10263,
-      "rating": 4.7,
-      "release_date": "2026-02-20",
-      "actors": []
-    }
+    "code": 200,
+    "episodeNumber": 2,
+    "locked": false,
+    "msg": "SUCCESS",
+    "number": 2,
+    "qualityList": [
+      {
+        "label": "540p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/50b1be0b1b7b71f1bff45114c1ca0102/d521a9055da54b349d1c3339361ab7d8-73309b13579f945792b57880a49edddf-ld.m3u8"
+      },
+      {
+        "label": "720p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/50b1be0b1b7b71f1bff45114c1ca0102/d521a9055da54b349d1c3339361ab7d8-f69e7acc842f5949b1ff65bc87308b06-sd.m3u8"
+      },
+      {
+        "isDefault": true,
+        "label": "1080p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/50b1be0b1b7b71f1bff45114c1ca0102/d521a9055da54b349d1c3339361ab7d8-2bd0a483a416d3f05043b9efead3629b-hd.m3u8"
+      }
+    ],
+    "videoUrl": "https://v-mps.crazymaplestudios.com/vod-112094/50b1be0b1b7b71f1bff45114c1ca0102/d521a9055da54b349d1c3339361ab7d8-2bd0a483a416d3f05043b9efead3629b-hd.m3u8"
   },
   {
-    "status": "success",
-    "data": {
-      "id": "episode-3-dia-bukan-hanya-adikmu-6982ec316052832c9a0e7edc-rcqcraciri",
-      "series_name": "Dia Bukan Hanya Adikmu",
-      "episode_name": "Episode 1 - Dia Bukan Hanya Adikmu",
-      "episode_no": 1,
-      "duration": "PT3M32S",
-      "description": "Taipan bisnis Eliza Reed pulang untuk menyelamatkan perusahaan suaminya, Julian, yang sedang goyah, namun malah menemukan kedekatan mencurigakan antara Julian dan sekretarisnya, Quinny. Julian bersikeras Quinny hanya dianggap adik, tetapi wanita itu menguasai barang pribadi dan warisan mendiang ibu Eliza. Muak dengan pilih kasih dan pengkhianatan suaminya, Eliza akhirnya sadar dan memutuskan untuk bercerai.",
-      "thumbnail": "https://v-mps.crazymaplestudios.com/Snapshots/453723ad89944b2a.jpg",
-      "video_url": "https://v-mps.crazymaplestudios.com/vod-112094/f0d515f20e1771f1bfef4177d1c00102/79016b3c542347099b53bc56903b27e3-7ad6fb0e6a8b19244656acf8866b6807-sd.m3u8",
-      "embed_url": "https://www.reelshort.com/in/embed/6982ec316052832c9a0e7edc-rcqcraciri",
-      "views": 10263,
-      "rating": 4.7,
-      "release_date": "2026-02-20",
-      "actors": []
-    }
+    "code": 200,
+    "episodeNumber": 3,
+    "locked": false,
+    "msg": "SUCCESS",
+    "number": 3,
+    "qualityList": [
+      {
+        "label": "540p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/005c8ae01b7a71f180074077c0c30102/9393c705ba9540aa82e93a2a89b587f3-ea758879dd660d01ea31e0d6fd7da572-ld.m3u8"
+      },
+      {
+        "label": "720p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/005c8ae01b7a71f180074077c0c30102/9393c705ba9540aa82e93a2a89b587f3-72385cb625e0cf3ac0bc6aedff1973c4-sd.m3u8"
+      },
+      {
+        "isDefault": true,
+        "label": "1080p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/005c8ae01b7a71f180074077c0c30102/9393c705ba9540aa82e93a2a89b587f3-d75d1157fae1d5036fd7a4e97a49c8e5-hd.m3u8"
+      }
+    ],
+    "videoUrl": "https://v-mps.crazymaplestudios.com/vod-112094/005c8ae01b7a71f180074077c0c30102/9393c705ba9540aa82e93a2a89b587f3-d75d1157fae1d5036fd7a4e97a49c8e5-hd.m3u8"
+  },
+  {
+    "code": 200,
+    "episodeNumber": 4,
+    "locked": false,
+    "msg": "SUCCESS",
+    "number": 4,
+    "qualityList": [
+      {
+        "label": "540p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/e0507a0e1dd671f1bfb34177d1c10102/4a5f748cc8df4aafb5eb091ea9ecaf09-b8f7845663e6bdab6193cff551e4d872-ld.m3u8"
+      },
+      {
+        "label": "720p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/e0507a0e1dd671f1bfb34177d1c10102/4a5f748cc8df4aafb5eb091ea9ecaf09-9e1f0e017f406e9e6076806ba4df2cf4-sd.m3u8"
+      },
+      {
+        "isDefault": true,
+        "label": "1080p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/e0507a0e1dd671f1bfb34177d1c10102/4a5f748cc8df4aafb5eb091ea9ecaf09-d6853d8312dfb2a7cc7820b52095c8b7-hd.m3u8"
+      }
+    ],
+    "videoUrl": "https://v-mps.crazymaplestudios.com/vod-112094/e0507a0e1dd671f1bfb34177d1c10102/4a5f748cc8df4aafb5eb091ea9ecaf09-d6853d8312dfb2a7cc7820b52095c8b7-hd.m3u8"
+  },
+  {
+    "code": 200,
+    "episodeNumber": 5,
+    "locked": false,
+    "msg": "SUCCESS",
+    "number": 5,
+    "qualityList": [
+      {
+        "label": "540p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/80bb0ffe1b7a71f180074077c0c30102/960ce0e4174848baa34dc9428368cbb0-f6511a958ee1653017f6dd9f7bc9b038-ld.m3u8"
+      },
+      {
+        "label": "720p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/80bb0ffe1b7a71f180074077c0c30102/960ce0e4174848baa34dc9428368cbb0-0c75b4cd80e2ed0a23c8896841edfa98-sd.m3u8"
+      },
+      {
+        "isDefault": true,
+        "label": "1080p",
+        "url": "https://v-mps.crazymaplestudios.com/vod-112094/80bb0ffe1b7a71f180074077c0c30102/960ce0e4174848baa34dc9428368cbb0-eb2a263ced682229f9b19366de85dd1e-hd.m3u8"
+      }
+    ],
+    "videoUrl": "https://v-mps.crazymaplestudios.com/vod-112094/80bb0ffe1b7a71f180074077c0c30102/960ce0e4174848baa34dc9428368cbb0-eb2a263ced682229f9b19366de85dd1e-hd.m3u8"
+  },
+  {
+    "code": 200,
+    "episodeNumber": 6,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 6,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 7,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 7,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 8,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 8,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 9,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 9,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 10,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 10,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 11,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 11,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 12,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 12,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 13,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 13,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 14,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 14,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 15,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 15,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 16,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 16,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 17,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 17,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 18,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 18,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 19,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 19,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 20,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 20,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 21,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 21,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 22,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 22,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 23,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 23,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 24,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 24,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 25,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 25,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 26,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 26,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 27,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 27,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 28,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 28,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 29,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 29,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 30,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 30,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 31,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 31,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 32,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 32,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 33,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 33,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 34,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 34,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 35,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 35,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 36,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 36,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 37,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 37,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 38,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 38,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 39,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 39,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 40,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 40,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 41,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 41,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 42,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 42,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 43,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 43,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 44,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 44,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 45,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 45,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 46,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 46,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 47,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 47,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 48,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 48,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 49,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 49,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 50,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 50,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 51,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 51,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 52,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 52,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 53,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 53,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 54,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 54,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 55,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 55,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 56,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 56,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 57,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 57,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 58,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 58,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 59,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 59,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 60,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 60,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 61,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 61,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 62,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 62,
+    "qualityList": [],
+    "videoUrl": ""
+  },
+  {
+    "code": 200,
+    "episodeNumber": 63,
+    "locked": true,
+    "msg": "SUCCESS",
+    "number": 63,
+    "qualityList": [],
+    "videoUrl": ""
   }
 ]
